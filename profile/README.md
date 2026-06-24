@@ -20,6 +20,6 @@ For example, the [nanosoc](https://soclabs.org/reference-design/nanosoc) reusabl
 You will also find top level projects for megaSoC and milliSoC
 
 Click the links below to see repositories related to:
-    - [nanoSoC](https://github.com/search?q=topic%3Ananosoc+org%3ASoC-Labs&type=Repositories)
-    - [milliSoC](https://github.com/search?q=topic%3Amillisoc+org%3ASoC-Labs&type=Repositories)
-    - [megaSoC](https://github.com/search?q=topic%3Amegasoc+org%3ASoC-Labs&type=Repositories)
+- [nanoSoC](https://github.com/search?q=topic%3Ananosoc+org%3ASoC-Labs&type=Repositories)
+- [milliSoC](https://github.com/search?q=topic%3Amillisoc+org%3ASoC-Labs&type=Repositories)
+- [megaSoC](https://github.com/search?q=topic%3Amegasoc+org%3ASoC-Labs&type=Repositories)
